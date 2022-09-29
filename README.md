@@ -1,0 +1,1 @@
+Creating a Java program and Dockerfile to push to git hub and use git hub to build docker image.
